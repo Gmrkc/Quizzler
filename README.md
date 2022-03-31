@@ -1,3 +1,3 @@
-Quiz App
+Quiz App with MVC
 
-![sample](Img/quiz.png)
+![sample](Img/sample.png)
